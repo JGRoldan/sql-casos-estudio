@@ -10,7 +10,7 @@
 
 - [X] Lista el nombre de los productos, el precio en euros y el precio en dólares estadounidenses (USD). Utiliza los siguientes alias para las columnas: nombre de producto, euros, dólares.
 
-- [ ] Lista los nombres y los precios de todos los productos de la tabla producto, convirtiendo los nombres a mayúscula.
+- [X] Lista los nombres y los precios de todos los productos de la tabla producto, convirtiendo los nombres a mayúscula.
 
 - [ ] Lista los nombres y los precios de todos los productos de la tabla producto, convirtiendo los nombres a minúscula.
 
