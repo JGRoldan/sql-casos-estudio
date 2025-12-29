@@ -41,34 +41,34 @@ SELECT nombre, precio, ROUND(precio) as round_precio FROM producto;
 
 - [X] Lista el nombre de todos los productos del fabricante cuyo identificador de fabricante es igual a 2.
 
-- [ ] Lista el nombre de los productos que tienen un precio menor o igual a 120€.
+- [X] Lista el nombre de los productos que tienen un precio menor o igual a 120€.
 
-- [ ] Lista el nombre de los productos que tienen un precio mayor o igual a 400€.
+- [X] Lista el nombre de los productos que tienen un precio mayor o igual a 400€.
 
-- [ ] Lista el nombre de los productos que no tienen un precio mayor o igual a 400€.
+- [X] Lista el nombre de los productos que no tienen un precio mayor o igual a 400€.
 
-- [ ] Lista todos los productos que tengan un precio entre 80€ y 300€. Sin utilizar el operador BETWEEN.
+- [X] Lista todos los productos que tengan un precio entre 80€ y 300€. Sin utilizar el operador BETWEEN.
 
-- [ ] Lista todos los productos que tengan un precio entre 60€ y 200€. Utilizando el operador BETWEEN.
+- [X] Lista todos los productos que tengan un precio entre 60€ y 200€. Utilizando el operador BETWEEN.
 
-- [ ] Lista todos los productos que tengan un precio mayor que 200€ y que el identificador de fabricante sea igual a 6.
+- [X] Lista todos los productos que tengan un precio mayor que 200€ y que el identificador de fabricante sea igual a 6.
 
-- [ ] Lista todos los productos donde el identificador de fabricante sea 1, 3 o 5. Sin utilizar el operador IN.
+- [X] Lista todos los productos donde el identificador de fabricante sea 1, 3 o 5. Sin utilizar el operador IN.
 
-- [ ] Lista todos los productos donde el identificador de fabricante sea 1, 3 o 5. Utilizando el operador IN.
+- [X] Lista todos los productos donde el identificador de fabricante sea 1, 3 o 5. Utilizando el operador IN.
 
-- [ ] Lista el nombre y el precio de los productos en céntimos (Habrá que multiplicar por 100 el valor del precio). Cree un alias para la columna que contiene el precio que se llame céntimos.
+- [X] Lista el nombre y el precio de los productos en céntimos (Habrá que multiplicar por 100 el valor del precio). Cree un alias para la columna que contiene el precio que se llame céntimos.
 
-- [ ] Lista los nombres de los fabricantes cuyo nombre empiece por la letra S.
+- [X] Lista los nombres de los fabricantes cuyo nombre empiece por la letra S.
 
-- [ ] Lista los nombres de los fabricantes cuyo nombre termine por la vocal e.
+- [X] Lista los nombres de los fabricantes cuyo nombre termine por la vocal e.
 
-- [ ] Lista los nombres de los fabricantes cuyo nombre contenga el carácter w.
+- [X] Lista los nombres de los fabricantes cuyo nombre contenga el carácter w.
 
-- [ ] Lista los nombres de los fabricantes cuyo nombre sea de 4 caracteres.
+- [X] Lista los nombres de los fabricantes cuyo nombre sea de 4 caracteres.
 
-- [ ] Devuelve una lista con el nombre de todos los productos que contienen la cadena Portátil en el nombre.
+- [X] Devuelve una lista con el nombre de todos los productos que contienen la cadena Portátil en el nombre.
 
-- [ ] Devuelve una lista con el nombre de todos los productos que contienen la cadena Monitor en el nombre y tienen un precio inferior a 215 €.
+- [X] Devuelve una lista con el nombre de todos los productos que contienen la cadena Monitor en el nombre y tienen un precio inferior a 215 €.
 
-- [ ] Lista el nombre y el precio de todos los productos que tengan un precio mayor o igual a 180€. Ordene el resultado en primer lugar por el precio (en orden descendente) y en segundo lugar por el nombre (en orden ascendente).
+- [X] Lista el nombre y el precio de todos los productos que tengan un precio mayor o igual a 180€. Ordene el resultado en primer lugar por el precio (en orden descendente) y en segundo lugar por el nombre (en orden ascendente).
