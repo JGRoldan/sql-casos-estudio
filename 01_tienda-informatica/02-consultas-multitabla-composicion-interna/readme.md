@@ -28,7 +28,7 @@ aplicadas sobre la base de datos de tienda de informática.
 - [X] Devuelve un listado con todos los productos de los fabricantes Asus, Hewlett-Packard y Seagate.  
       Utilizando el operador IN.
 
-- [ ] Devuelve un listado con el nombre y el precio de todos los productos de los fabricantes cuyo nombre termine por la vocal e.
+- [X] Devuelve un listado con el nombre y el precio de todos los productos de los fabricantes cuyo nombre termine por la vocal e.
 
 - [X] Devuelve un listado con el nombre y el precio de todos los productos cuyo nombre de fabricante contenga el carácter w en su nombre.
 
