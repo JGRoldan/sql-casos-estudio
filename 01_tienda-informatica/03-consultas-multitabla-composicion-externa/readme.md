@@ -11,5 +11,5 @@ aplicadas sobre la base de datos de tienda de informática.
 
 - [X] Devuelve un listado donde sólo aparezcan aquellos fabricantes que no tienen ningún producto asociado.
 
-- [ ] ¿Pueden existir productos que no estén relacionados con un fabricante? Justifique su respuesta.
+- [X] ¿Pueden existir productos que no estén relacionados con un fabricante? Justifique su respuesta.
 

@@ -5,8 +5,8 @@ Este repositorio contiene una colección de esquemas de bases de datos y consult
 - [Tienda de informática](https://github.com/JGRoldan/sql-casos-estudio/tree/main/01_tienda-informatica)
   - [Consultas sobre una tabla](https://github.com/JGRoldan/sql-casos-estudio/tree/main/01_tienda-informatica/01-consultas-sobre-una-tabla)
   - [Consultas multitabla (Composición interna)](https://github.com/JGRoldan/sql-casos-estudio/tree/main/01_tienda-informatica/02-consultas-multitabla-composicion-interna)
-  - ~~[Consultas multitabla (Composición externa)](PROXIMAMENTE)~~
-  - ~~[Consultas resumen](PROXIMAMENTE)~~
+  - [Consultas multitabla (Composición externa)](https://github.com/JGRoldan/sql-casos-estudio/tree/main/01_tienda-informatica/03-consultas-multitabla-composicion-externa)
+  - [Consultas resumen](PROXIMAMENTE)
   - ~~[Subconsultas (En la cláusula WHERE)](PROXIMAMENTE)~~
     - ~~[Con operadores básicos de comparación](PROXIMAMENTE)~~
     - ~~[Subconsultas con ALL y ANY](PROXIMAMENTE)~~
