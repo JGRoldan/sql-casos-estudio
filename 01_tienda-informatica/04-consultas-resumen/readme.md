@@ -7,17 +7,17 @@ utilizando funciones como COUNT, AVG, MIN, MAX, SUM y GROUP BY.
 
 ## Consultas
 
-- [ ] Calcula el número total de productos que hay en la tabla productos.
+- [X] Calcula el número total de productos que hay en la tabla productos.
 
-- [ ] Calcula el número total de fabricantes que hay en la tabla fabricante.
+- [X] Calcula el número total de fabricantes que hay en la tabla fabricante.
 
-- [ ] Calcula el número de valores distintos de identificador de fabricante que aparecen en la tabla productos.
+- [X] Calcula el número de valores distintos de identificador de fabricante que aparecen en la tabla productos.
 
-- [ ] Calcula la media del precio de todos los productos.
+- [X] Calcula la media del precio de todos los productos.
 
-- [ ] Calcula el precio más barato de todos los productos.
+- [X] Calcula el precio más barato de todos los productos.
 
-- [ ] Calcula el precio más caro de todos los productos.
+- [X] Calcula el precio más caro de todos los productos.
 
 - [ ] Lista el nombre y el precio del producto más barato.
 
