@@ -19,11 +19,11 @@ utilizando funciones como COUNT, AVG, MIN, MAX, SUM y GROUP BY.
 
 - [X] Calcula el precio más caro de todos los productos.
 
-- [ ] Lista el nombre y el precio del producto más barato.
+- [X] Lista el nombre y el precio del producto más barato.
 
-- [ ] Lista el nombre y el precio del producto más caro.
+- [X] Lista el nombre y el precio del producto más caro.
 
-- [ ] Calcula la suma de los precios de todos los productos.
+- [X] Calcula la suma de los precios de todos los productos.
 
 - [ ] Calcula el número de productos que tiene el fabricante Asus.
 
