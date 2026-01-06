@@ -25,15 +25,15 @@ utilizando funciones como COUNT, AVG, MIN, MAX, SUM y GROUP BY.
 
 - [X] Calcula la suma de los precios de todos los productos.
 
-- [ ] Calcula el número de productos que tiene el fabricante Asus.
+- [X] Calcula el número de productos que tiene el fabricante Asus.
 
-- [ ] Calcula la media del precio de todos los productos del fabricante Asus.
+- [X] Calcula la media del precio de todos los productos del fabricante Asus.
 
-- [ ] Calcula el precio más barato de todos los productos del fabricante Asus.
+- [X] Calcula el precio más barato de todos los productos del fabricante Asus.
 
-- [ ] Calcula el precio más caro de todos los productos del fabricante Asus.
+- [X] Calcula el precio más caro de todos los productos del fabricante Asus.
 
-- [ ] Calcula la suma de todos los productos del fabricante Asus.
+- [X] Calcula la suma de todos los productos del fabricante Asus.
 
 - [ ] Muestra el precio máximo, precio mínimo, precio medio y el número total de productos que tiene el fabricante Crucial.
 
